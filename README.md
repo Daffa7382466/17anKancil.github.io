@@ -1,5 +1,3 @@
-# 17anKancil.github.io
-<!DOCTYPE html>
 <html>
 <head>
   <title>17an Kancil</title>
